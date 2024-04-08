@@ -1,0 +1,4 @@
+D:\2115239_MTK\2115239_MTK\Factory Patterns\bin\Debug\netcoreapp3.1\Factory Patterns.exe
+D:\2115239_MTK\2115239_MTK\Factory Patterns\obj\Debug\netcoreapp3.1\Factory Patterns.csprojAssemblyReference.cache
+D:\2115239_MTK\2115239_MTK\Factory Patterns\obj\Debug\netcoreapp3.1\Factory Patterns.AssemblyInfoInputs.cache
+D:\2115239_MTK\2115239_MTK\Factory Patterns\obj\Debug\netcoreapp3.1\Factory Patterns.AssemblyInfo.cs

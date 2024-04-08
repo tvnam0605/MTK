@@ -1,0 +1,13 @@
+D:\2115239_MTK\2115239_MTK\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\2115239_MTK\2115239_MTK\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\2115239_MTK\2115239_MTK\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\2115239_MTK\2115239_MTK\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\2115239_MTK\2115239_MTK\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\2115239_MTK\2115239_MTK\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
