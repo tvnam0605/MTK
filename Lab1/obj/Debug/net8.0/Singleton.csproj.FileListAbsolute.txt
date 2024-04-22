@@ -1,0 +1,15 @@
+D:\MTK\Lab1\bin\Debug\net8.0\Singleton.exe
+D:\MTK\Lab1\bin\Debug\net8.0\Singleton.deps.json
+D:\MTK\Lab1\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\MTK\Lab1\bin\Debug\net8.0\Singleton.dll
+D:\MTK\Lab1\bin\Debug\net8.0\Singleton.pdb
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.sourcelink.json
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.dll
+D:\MTK\Lab1\obj\Debug\net8.0\refint\Singleton.dll
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.pdb
+D:\MTK\Lab1\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\MTK\Lab1\obj\Debug\net8.0\ref\Singleton.dll

@@ -27,3 +27,17 @@ D:\2115239_MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
 D:\2115239_MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
 D:\2115239_MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
 D:\2115239_MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+D:\MTK\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+D:\MTK\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+D:\MTK\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+D:\MTK\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+D:\MTK\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+D:\MTK\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.sourcelink.json
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+D:\MTK\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

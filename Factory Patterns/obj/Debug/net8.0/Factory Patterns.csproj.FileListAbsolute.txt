@@ -1,0 +1,15 @@
+D:\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.exe
+D:\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.deps.json
+D:\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.runtimeconfig.json
+D:\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.dll
+D:\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.pdb
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.AssemblyInfoInputs.cache
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.AssemblyInfo.cs
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.csproj.CoreCompileInputs.cache
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.sourcelink.json
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.dll
+D:\MTK\Factory Patterns\obj\Debug\net8.0\refint\Factory Patterns.dll
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.pdb
+D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.genruntimeconfig.cache
+D:\MTK\Factory Patterns\obj\Debug\net8.0\ref\Factory Patterns.dll

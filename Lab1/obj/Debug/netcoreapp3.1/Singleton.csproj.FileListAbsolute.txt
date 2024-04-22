@@ -11,3 +11,10 @@ D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.dll
 D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.pdb
 D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
 D:\2115239_MTK\2115239_MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.sourcelink.json
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\MTK\Lab1\obj\Debug\netcoreapp3.1\Singleton.pdb

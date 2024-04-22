@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ak38VHD11mEOmBJ0rfp0i8Gu0JCeblSUzDvOlR24PgqtZZQtVxMUENjxOSMzy1oU0DNqW7+cFjG62vb7Zi7bTA==",
+  "dgSpecHash": "VO9HIGklfeDTr9dIVwwNX4ZpqxmJVHPYfgl4g/GfYsQYXgVLSlFk7C5nRUyoDyQ4SEPKKbEsfQpWTP6pwPYDww==",
   "success": true,
-  "projectFilePath": "D:\\2115239_MTK\\Factory Patterns\\Factory Patterns.csproj",
+  "projectFilePath": "D:\\MTK\\Factory Patterns\\Factory Patterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

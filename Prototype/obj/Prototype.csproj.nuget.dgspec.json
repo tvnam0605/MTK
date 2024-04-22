@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2115239_MTK\\Prototype\\Prototype.csproj": {}
+    "D:\\MTK\\Prototype\\Prototype.csproj": {}
   },
   "projects": {
-    "D:\\2115239_MTK\\Prototype\\Prototype.csproj": {
+    "D:\\MTK\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2115239_MTK\\Prototype\\Prototype.csproj",
+        "projectUniqueName": "D:\\MTK\\Prototype\\Prototype.csproj",
         "projectName": "Prototype",
-        "projectPath": "D:\\2115239_MTK\\Prototype\\Prototype.csproj",
-        "packagesPath": "C:\\Users\\CICT\\.nuget\\packages\\",
-        "outputPath": "D:\\2115239_MTK\\Prototype\\obj\\",
+        "projectPath": "D:\\MTK\\Prototype\\Prototype.csproj",
+        "packagesPath": "C:\\Users\\PC602\\.nuget\\packages\\",
+        "outputPath": "D:\\MTK\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CICT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\PC602\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,14 +42,22 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
