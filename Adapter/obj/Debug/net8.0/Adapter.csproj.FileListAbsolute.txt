@@ -13,3 +13,6 @@ D:\MTK\Adapter\obj\Debug\net8.0\refint\Adapter.dll
 D:\MTK\Adapter\obj\Debug\net8.0\Adapter.pdb
 D:\MTK\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
 D:\MTK\Adapter\obj\Debug\net8.0\ref\Adapter.dll
+D:\DesignPattern\MTK\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+D:\DesignPattern\MTK\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.dev.json
+D:\DesignPattern\MTK\Adapter\obj\Debug\net8.0\Adapter.pdb

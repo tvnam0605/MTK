@@ -13,3 +13,6 @@ D:\MTK\Decorator\obj\Debug\net8.0\refint\Decorator.dll
 D:\MTK\Decorator\obj\Debug\net8.0\Decorator.pdb
 D:\MTK\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
 D:\MTK\Decorator\obj\Debug\net8.0\ref\Decorator.dll
+D:\DesignPattern\MTK\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+D:\DesignPattern\MTK\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.dev.json
+D:\DesignPattern\MTK\Decorator\obj\Debug\net8.0\Decorator.pdb

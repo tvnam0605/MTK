@@ -13,3 +13,6 @@ D:\MTK\Lab1\obj\Debug\net8.0\refint\Singleton.dll
 D:\MTK\Lab1\obj\Debug\net8.0\Singleton.pdb
 D:\MTK\Lab1\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
 D:\MTK\Lab1\obj\Debug\net8.0\ref\Singleton.dll
+D:\DesignPattern\MTK\Lab1\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\DesignPattern\MTK\Lab1\bin\Debug\net8.0\Singleton.runtimeconfig.dev.json
+D:\DesignPattern\MTK\Lab1\obj\Debug\net8.0\Singleton.pdb

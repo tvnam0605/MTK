@@ -13,3 +13,6 @@ D:\MTK\Factory Patterns\obj\Debug\net8.0\refint\Factory Patterns.dll
 D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.pdb
 D:\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.genruntimeconfig.cache
 D:\MTK\Factory Patterns\obj\Debug\net8.0\ref\Factory Patterns.dll
+D:\DesignPattern\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.runtimeconfig.json
+D:\DesignPattern\MTK\Factory Patterns\bin\Debug\net8.0\Factory Patterns.runtimeconfig.dev.json
+D:\DesignPattern\MTK\Factory Patterns\obj\Debug\net8.0\Factory Patterns.pdb

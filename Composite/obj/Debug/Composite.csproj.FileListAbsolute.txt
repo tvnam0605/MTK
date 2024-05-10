@@ -1,7 +1,7 @@
-D:\MTK\Composite\bin\Debug\Composite.exe.config
-D:\MTK\Composite\bin\Debug\Composite.exe
-D:\MTK\Composite\bin\Debug\Composite.pdb
-D:\MTK\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
-D:\MTK\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
-D:\MTK\Composite\obj\Debug\Composite.exe
-D:\MTK\Composite\obj\Debug\Composite.pdb
+D:\DesignPattern\MTK\Composite\bin\Debug\Composite.exe.config
+D:\DesignPattern\MTK\Composite\bin\Debug\Composite.exe
+D:\DesignPattern\MTK\Composite\bin\Debug\Composite.pdb
+D:\DesignPattern\MTK\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\DesignPattern\MTK\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\DesignPattern\MTK\Composite\obj\Debug\Composite.exe
+D:\DesignPattern\MTK\Composite\obj\Debug\Composite.pdb

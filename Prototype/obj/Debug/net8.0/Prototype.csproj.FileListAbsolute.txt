@@ -91,3 +91,6 @@ D:\MTK\Prototype\obj\Debug\net8.0\refint\Prototype.dll
 D:\MTK\Prototype\obj\Debug\net8.0\Prototype.pdb
 D:\MTK\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
 D:\MTK\Prototype\obj\Debug\net8.0\ref\Prototype.dll
+D:\DesignPattern\MTK\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+D:\DesignPattern\MTK\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.dev.json
+D:\DesignPattern\MTK\Prototype\obj\Debug\net8.0\Prototype.pdb
